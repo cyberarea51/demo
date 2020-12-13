@@ -1,4 +1,3 @@
-sys
 bqplot
 ipympl
 ipyvolume
