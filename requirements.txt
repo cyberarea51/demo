@@ -1,5 +1,7 @@
+sys
 bqplot
 ipympl
 ipyvolume
 scipy
+seaborn
 voila
