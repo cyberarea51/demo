@@ -3,4 +3,5 @@ ipympl
 ipyvolume
 scipy
 seaborn
+sklearn
 voila
